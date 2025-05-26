@@ -7,3 +7,5 @@ This outdoor science lab curriculum and activities are governed by the Attributi
 
 This curriculum was developed using my own research, experience and interviews with teachers. However, I used Gemini 2.5 Flash and ChatGPT o3 to figure out which Common Core Science Standards fit each of the Lessons. 
 
+To see how to build the lab and the lesson plans, look at the Wiki.
+
